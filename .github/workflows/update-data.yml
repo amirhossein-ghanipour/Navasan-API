@@ -8,7 +8,11 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    
+    # The default GITHUB_TOKEN on a fork is read-only, so the auto-commit push is
+    # rejected (403). Grant contents:write so the scraper can push data/ back.
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
