@@ -1026,9 +1026,9 @@
     "change_pct": 0
   },
   "aed": {
-    "value": 55360,
-    "date": 1787744405,
-    "change_val": 0,
-    "change_pct": 0
+    "value": 55420,
+    "date": 1787745606,
+    "change_val": 60,
+    "change_pct": 0.11
   }
 }
