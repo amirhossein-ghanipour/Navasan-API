@@ -1,1045 +1,1045 @@
 {
   "usd": {
-    "value": 272500,
-    "date": 1793360494,
+    "value": 275000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "afn": {
-    "value": 4260,
-    "date": 1793360494,
+    "value": 4295,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "all": {
-    "value": 3345,
-    "date": 1793360494,
+    "value": 3375,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "amd": {
-    "value": 755,
-    "date": 1793360494,
+    "value": 765,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ang": {
-    "value": 152250,
-    "date": 1793360494,
+    "value": 153650,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "aoa": {
-    "value": 296.84,
-    "date": 1793360494,
+    "value": 299.56,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ars": {
-    "value": 177.12,
-    "date": 1793360494,
+    "value": 178.74,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "aud": {
-    "value": 191650,
-    "date": 1793360494,
+    "value": 193400,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "awg": {
-    "value": 151180,
-    "date": 1793360494,
+    "value": 152570,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "azn": {
-    "value": 160230,
-    "date": 1793360494,
+    "value": 161700,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bam": {
-    "value": 155240,
-    "date": 1793360494,
+    "value": 156660,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bbd": {
-    "value": 135290,
-    "date": 1793360494,
+    "value": 136540,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bdt": {
-    "value": 2195,
-    "date": 1793360494,
+    "value": 2215,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bgn": {
-    "value": 155910,
-    "date": 1793360494,
+    "value": 157340,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bhd": {
-    "value": 722140,
-    "date": 1793360494,
+    "value": 728770,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bif": {
-    "value": 90.83,
-    "date": 1793360494,
+    "value": 91.67,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bmd": {
-    "value": 272500,
-    "date": 1793360494,
+    "value": 275000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bnd": {
-    "value": 212630,
-    "date": 1793360494,
+    "value": 214580,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bob": {
-    "value": 22720,
-    "date": 1793360494,
+    "value": 22930,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "brl": {
-    "value": 50630,
-    "date": 1793360494,
+    "value": 51100,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bsd": {
-    "value": 272500,
-    "date": 1793360494,
+    "value": 275000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "btc": {
-    "value": 21364326690,
-    "date": 1793360494,
+    "value": 21560329680,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "btn": {
-    "value": 2860,
-    "date": 1793360494,
+    "value": 2890,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bwp": {
-    "value": 19710,
-    "date": 1793360494,
+    "value": 19900,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "byn": {
-    "value": 92440,
-    "date": 1793360494,
+    "value": 93290,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "byr": {
-    "value": 13.9,
-    "date": 1793360494,
+    "value": 14.03,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "bzd": {
-    "value": 135490,
-    "date": 1793360494,
+    "value": 136730,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cad": {
-    "value": 195230,
-    "date": 1793360494,
+    "value": 197020,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cdf": {
-    "value": 117.71,
-    "date": 1793360494,
+    "value": 118.79,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "chf": {
-    "value": 331690,
-    "date": 1793360494,
+    "value": 334730,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "clf": {
-    "value": 10895640,
-    "date": 1793360494,
+    "value": 10995600,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "clp": {
-    "value": 275.94,
-    "date": 1793360494,
+    "value": 278.47,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cny": {
-    "value": 40910,
-    "date": 1793360494,
+    "value": 41280,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cnh": {
-    "value": 40970,
-    "date": 1793360494,
+    "value": 41350,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cop": {
-    "value": 85.77,
-    "date": 1793360494,
+    "value": 86.56,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "crc": {
-    "value": 600,
-    "date": 1793360494,
+    "value": 605,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cuc": {
-    "value": 272500,
-    "date": 1793360494,
+    "value": 275000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cup": {
-    "value": 11350,
-    "date": 1793360494,
+    "value": 11460,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "cve": {
-    "value": 2745,
-    "date": 1793360494,
+    "value": 2775,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "czk": {
-    "value": 12550,
-    "date": 1793360494,
+    "value": 12660,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "djf": {
-    "value": 1535,
-    "date": 1793360494,
+    "value": 1545,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "dkk": {
-    "value": 40850,
-    "date": 1793360494,
+    "value": 41230,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "dop": {
-    "value": 4495,
-    "date": 1793360494,
+    "value": 4535,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "dzd": {
-    "value": 2010,
-    "date": 1793360494,
+    "value": 2030,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "egp": {
-    "value": 4865,
-    "date": 1793360494,
+    "value": 4910,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ern": {
-    "value": 18170,
-    "date": 1793360494,
+    "value": 18330,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "etb": {
-    "value": 1690,
-    "date": 1793360494,
+    "value": 1705,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "eur": {
-    "value": 305310,
-    "date": 1793360494,
+    "value": 308110,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "fjd": {
-    "value": 121640,
-    "date": 1793360494,
+    "value": 122750,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "fkp": {
-    "value": 364480,
-    "date": 1793360494,
+    "value": 367820,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gbp": {
-    "value": 365910,
-    "date": 1793360494,
+    "value": 369260,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gel": {
-    "value": 104410,
-    "date": 1793360494,
+    "value": 105360,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ggp": {
-    "value": 364480,
-    "date": 1793360494,
+    "value": 367820,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ghs": {
-    "value": 23390,
-    "date": 1793360494,
+    "value": 23600,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gip": {
-    "value": 364480,
-    "date": 1793360494,
+    "value": 367820,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gmd": {
-    "value": 3680,
-    "date": 1793360494,
+    "value": 3715,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gnf": {
-    "value": 30.97,
-    "date": 1793360494,
+    "value": 31.25,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gtq": {
-    "value": 35640,
-    "date": 1793360494,
+    "value": 35970,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "gyd": {
-    "value": 1300,
-    "date": 1793360494,
+    "value": 1310,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "hkd": {
-    "value": 34740,
-    "date": 1793360494,
+    "value": 35050,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "hnl": {
-    "value": 10090,
-    "date": 1793360494,
+    "value": 10190,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "hrk": {
-    "value": 40260,
-    "date": 1793360494,
+    "value": 40630,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "htg": {
-    "value": 2080,
-    "date": 1793360494,
+    "value": 2100,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "huf": {
-    "value": 835,
-    "date": 1793360494,
+    "value": 840,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "idr": {
-    "value": 15.02,
-    "date": 1793360494,
+    "value": 15.15,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ils": {
-    "value": 87340,
-    "date": 1793360494,
+    "value": 88140,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "imp": {
-    "value": 364480,
-    "date": 1793360494,
+    "value": 367820,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "inr": {
-    "value": 2870,
-    "date": 1793360494,
+    "value": 2895,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "iqd": {
-    "value": 179.99,
-    "date": 1793360494,
+    "value": 181.64,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "irr": {
     "value": 0.15,
-    "date": 1793360494,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "isk": {
-    "value": 2245,
-    "date": 1793360494,
+    "value": 2265,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "jep": {
-    "value": 364480,
-    "date": 1793360494,
+    "value": 367820,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "jmd": {
-    "value": 1715,
-    "date": 1793360494,
+    "value": 1730,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "jod": {
-    "value": 384340,
-    "date": 1793360494,
+    "value": 387870,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "jpy": {
-    "value": 1735,
-    "date": 1793360494,
+    "value": 1750,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kes": {
-    "value": 2095,
-    "date": 1793360494,
+    "value": 2115,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kgs": {
-    "value": 3115,
-    "date": 1793360494,
+    "value": 3145,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "khr": {
-    "value": 66.9,
-    "date": 1793360494,
+    "value": 67.52,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kmf": {
-    "value": 620,
-    "date": 1793360494,
+    "value": 625,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kpw": {
-    "value": 302.78,
-    "date": 1793360494,
+    "value": 305.56,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "krw": {
-    "value": 204.13,
-    "date": 1793360494,
+    "value": 206,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kwd": {
-    "value": 876180,
-    "date": 1793360494,
+    "value": 884220,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kyd": {
-    "value": 327000,
-    "date": 1793360494,
+    "value": 330000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "kzt": {
-    "value": 600,
-    "date": 1793360494,
+    "value": 605,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lak": {
-    "value": 12.09,
-    "date": 1793360494,
+    "value": 12.2,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lbp": {
-    "value": 3.04,
-    "date": 1793360494,
+    "value": 3.07,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lkr": {
-    "value": 820,
-    "date": 1793360494,
+    "value": 825,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lrd": {
-    "value": 1600,
-    "date": 1793360494,
+    "value": 1615,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lsl": {
-    "value": 16390,
-    "date": 1793360494,
+    "value": 16540,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ltl": {
-    "value": 92290,
-    "date": 1793360494,
+    "value": 93130,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lvl": {
-    "value": 450500,
-    "date": 1793360494,
+    "value": 454630,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "lyd": {
-    "value": 42410,
-    "date": 1793360494,
+    "value": 42800,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mad": {
-    "value": 27710,
-    "date": 1793360494,
+    "value": 27970,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mdl": {
-    "value": 15100,
-    "date": 1793360494,
+    "value": 15240,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mga": {
-    "value": 59.3,
-    "date": 1793360494,
+    "value": 59.85,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mkd": {
-    "value": 4955,
-    "date": 1793360494,
+    "value": 5000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mmk": {
-    "value": 129.77,
-    "date": 1793360494,
+    "value": 130.96,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mnt": {
-    "value": 75.74,
-    "date": 1793360494,
+    "value": 76.43,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mop": {
-    "value": 33720,
-    "date": 1793360494,
+    "value": 34020,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mru": {
-    "value": 6770,
-    "date": 1793360494,
+    "value": 6830,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mur": {
-    "value": 5760,
-    "date": 1793360494,
+    "value": 5820,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mvr": {
-    "value": 17640,
-    "date": 1793360494,
+    "value": 17800,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mwk": {
-    "value": 156.97,
-    "date": 1793360494,
+    "value": 158.41,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mxn": {
-    "value": 14450,
-    "date": 1793360494,
+    "value": 14580,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "myr": {
-    "value": 67160,
-    "date": 1793360494,
+    "value": 67780,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mzn": {
-    "value": 4265,
-    "date": 1793360494,
+    "value": 4305,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "nad": {
-    "value": 16390,
-    "date": 1793360494,
+    "value": 16540,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ngn": {
-    "value": 202.32,
-    "date": 1793360494,
+    "value": 204.17,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "nio": {
-    "value": 7400,
-    "date": 1793360494,
+    "value": 7470,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "nok": {
-    "value": 29620,
-    "date": 1793360494,
+    "value": 29890,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "npr": {
-    "value": 1790,
-    "date": 1793360494,
+    "value": 1805,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "nzd": {
-    "value": 153780,
-    "date": 1793360494,
+    "value": 155190,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "omr": {
-    "value": 708710,
-    "date": 1793360494,
+    "value": 715210,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "pab": {
-    "value": 272500,
-    "date": 1793360494,
+    "value": 275000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "pen": {
-    "value": 78750,
-    "date": 1793360494,
+    "value": 79470,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "pgk": {
-    "value": 60690,
-    "date": 1793360494,
+    "value": 61240,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "php": {
-    "value": 4280,
-    "date": 1793360494,
+    "value": 4320,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "pkr": {
-    "value": 985,
-    "date": 1793360494,
+    "value": 995,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "pln": {
-    "value": 69440,
-    "date": 1793360494,
+    "value": 70080,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "pyg": {
-    "value": 46.51,
-    "date": 1793360494,
+    "value": 46.94,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "qar": {
-    "value": 74750,
-    "date": 1793360494,
+    "value": 75440,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ron": {
-    "value": 57130,
-    "date": 1793360494,
+    "value": 57650,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "rsd": {
-    "value": 2595,
-    "date": 1793360494,
+    "value": 2620,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "rub": {
-    "value": 3395,
-    "date": 1793360494,
+    "value": 3425,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "rwf": {
-    "value": 184.75,
-    "date": 1793360494,
+    "value": 186.44,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sar": {
-    "value": 72590,
-    "date": 1793360494,
+    "value": 73250,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sbd": {
-    "value": 33820,
-    "date": 1793360494,
+    "value": 34130,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "scr": {
-    "value": 19820,
-    "date": 1793360494,
+    "value": 20000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sdg": {
-    "value": 453.04,
-    "date": 1793360494,
+    "value": 457.2,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sek": {
-    "value": 27770,
-    "date": 1793360494,
+    "value": 28030,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sgd": {
-    "value": 213380,
-    "date": 1793360494,
+    "value": 215340,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "shp": {
-    "value": 364140,
-    "date": 1793360494,
+    "value": 367480,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sle": {
-    "value": 11900,
-    "date": 1793360494,
+    "value": 12010,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sll": {
-    "value": 13,
-    "date": 1793360494,
+    "value": 13.11,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "sos": {
-    "value": 476.83,
-    "date": 1793360494,
+    "value": 481.2,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "srd": {
-    "value": 7240,
-    "date": 1793360494,
+    "value": 7310,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "std": {
-    "value": 13.17,
-    "date": 1793360494,
+    "value": 13.29,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "stn": {
-    "value": 12220,
-    "date": 1793360494,
+    "value": 12330,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "svc": {
-    "value": 31140,
-    "date": 1793360494,
+    "value": 31430,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "syp": {
-    "value": 20.96,
-    "date": 1793360494,
+    "value": 21.15,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "szl": {
-    "value": 16390,
-    "date": 1793360494,
+    "value": 16540,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "thb": {
-    "value": 8090,
-    "date": 1793360494,
+    "value": 8160,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "tjs": {
-    "value": 29650,
-    "date": 1793360494,
+    "value": 29920,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "tmt": {
-    "value": 77860,
-    "date": 1793360494,
+    "value": 78570,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "tnd": {
-    "value": 90210,
-    "date": 1793360494,
+    "value": 91040,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "top": {
-    "value": 113180,
-    "date": 1793360494,
+    "value": 114210,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "try": {
-    "value": 5460,
-    "date": 1793360494,
+    "value": 5510,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ttd": {
-    "value": 40190,
-    "date": 1793360494,
+    "value": 40560,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "twd": {
-    "value": 8360,
-    "date": 1793360494,
+    "value": 8430,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "tzs": {
-    "value": 102.9,
-    "date": 1793360494,
+    "value": 103.84,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "uah": {
-    "value": 5980,
-    "date": 1793360494,
+    "value": 6040,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ugx": {
-    "value": 62.5,
-    "date": 1793360494,
+    "value": 63.07,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "uyu": {
-    "value": 6770,
-    "date": 1793360494,
+    "value": 6840,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "uzs": {
-    "value": 22.72,
-    "date": 1793360494,
+    "value": 22.93,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "ves": {
-    "value": 307.05,
-    "date": 1793360494,
+    "value": 309.87,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "vnd": {
-    "value": 10.56,
-    "date": 1793360494,
+    "value": 10.66,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "vuv": {
-    "value": 2285,
-    "date": 1793360494,
+    "value": 2305,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "wst": {
-    "value": 98240,
-    "date": 1793360494,
+    "value": 99140,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xaf": {
-    "value": 465.43,
-    "date": 1793360494,
+    "value": 469.7,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xag": {
-    "value": 13791880,
-    "date": 1793360494,
+    "value": 13918410,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xau": {
-    "value": 1085149500,
-    "date": 1793360494,
+    "value": 1095105000,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xcd": {
-    "value": 100830,
-    "date": 1793360494,
+    "value": 101760,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xcg": {
-    "value": 151200,
-    "date": 1793360494,
+    "value": 152580,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xdr": {
-    "value": 385400,
-    "date": 1793360494,
+    "value": 388940,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xof": {
-    "value": 465.43,
-    "date": 1793360494,
+    "value": 469.7,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "xpf": {
-    "value": 2540,
-    "date": 1793360494,
+    "value": 2565,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "yer": {
-    "value": 1155,
-    "date": 1793360494,
+    "value": 1165,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "zar": {
-    "value": 16370,
-    "date": 1793360494,
+    "value": 16520,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "zmk": {
-    "value": 30.27,
-    "date": 1793360494,
+    "value": 30.55,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "zmw": {
-    "value": 13490,
-    "date": 1793360494,
+    "value": 13610,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "zwl": {
-    "value": 845,
-    "date": 1793360494,
+    "value": 855,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "aed": {
-    "value": 74910,
-    "date": 1793361007,
-    "change_val": 0,
-    "change_pct": 0
+    "value": 75590,
+    "date": 1793373006,
+    "change_val": -60,
+    "change_pct": -0.08
   },
   "ssp": {
-    "value": 47.43,
-    "date": 1793360494,
+    "value": 47.87,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   },
   "mxv": {
-    "value": 128210,
-    "date": 1793360494,
+    "value": 129390,
+    "date": 1793372863,
     "change_val": 0,
     "change_pct": 0
   }
