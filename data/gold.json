@@ -2,96 +2,96 @@
   "xau": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 1066095760,
-    "date": 1795794618
+    "value": 1069449630,
+    "date": 1795804817
   },
   "usd_xau": {
     "change_val": 0,
     "change_pct": 0,
-    "value": "3629.88",
-    "date": 1795794618
+    "value": "3640.06",
+    "date": 1795804817
   },
   "bub_sekkeh": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 14081610,
-    "date": 1795794618
+    "value": 13292330,
+    "date": 1795804817
   },
   "bub_bahar": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 4111610,
-    "date": 1795794618
+    "value": 3322330,
+    "date": 1795804817
   },
   "bub_nim": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 17541230,
-    "date": 1795794618
+    "value": 17146640,
+    "date": 1795804817
   },
   "bub_rob": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 16255620,
-    "date": 1795794618
+    "value": 16058320,
+    "date": 1795804817
   },
   "bub_18ayar": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 90760,
-    "date": 1795794618
+    "value": 148400,
+    "date": 1795804817
   },
   "bub_gerami": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 7121800,
-    "date": 1795794618
+    "value": 7024760,
+    "date": 1795804817
   },
   "sekkeh": {
     "change_val": 0,
     "change_pct": 0,
     "value": 265000000,
-    "date": 1795794618
+    "date": 1795804817
   },
   "bahar": {
     "change_val": 0,
     "change_pct": 0,
     "value": 255000000,
-    "date": 1795794618
+    "date": 1795804817
   },
   "nim": {
     "change_val": 0,
     "change_pct": 0,
     "value": 143000000,
-    "date": 1795794618
+    "date": 1795804817
   },
   "rob": {
     "change_val": 0,
     "change_pct": 0,
     "value": 79000000,
-    "date": 1795794618
+    "date": 1795804817
   },
   "18ayar": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 25797590,
-    "date": 1795794618
+    "value": 25936100,
+    "date": 1795804817
   },
   "abshodeh": {
     "change_val": 0,
     "change_pct": 0,
-    "value": 111750000,
-    "date": 1795794618
+    "value": 112350000,
+    "date": 1795804817
   },
   "gerami": {
     "change_val": 0,
     "change_pct": 0,
     "value": 38000000,
-    "date": 1795794618
+    "date": 1795804817
   },
   "bub_abshodeh": {
     "change_val": 0,
     "change_pct": 0,
-    "date": 1795794618
+    "date": 1795804817
   }
 }
